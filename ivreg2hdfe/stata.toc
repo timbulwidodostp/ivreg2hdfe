@@ -2,4 +2,4 @@
 1
 2
 3
-p sgpv Calculate the Second-Generation P-Value(s)(SGPV) and their associated diagnosis statistics after common estimation commands Use sgpv With STATA 19
+p ivreg2hdfe Estimates an Instrumental Variable Linear Regression Model with two High Dimensional Fixed Effects Use ivreg2hdfe With STATA 19
